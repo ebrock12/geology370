@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SoftballField",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -81.087846959844526, 35.224418205042014 ], [ -81.087456445096876, 35.224892079202533 ], [ -81.086870326794099, 35.224776864042845 ], [ -81.087160191584886, 35.224168006386023 ], [ -81.087846959844526, 35.224418205042014 ] ] ] ] } }
+]
+}
