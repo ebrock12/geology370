@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "My_Middle_School_Softball_Field",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6543" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 1376524.596472037956119, 543160.285636843182147 ], [ 1376727.735453396802768, 543064.934686414897442 ], [ 1376818.940710331313312, 543284.656441756524146 ], [ 1376644.821583449607715, 543330.259070228668861 ], [ 1376524.596472037956119, 543160.285636843182147 ] ] ] ] } }
+]
+}
